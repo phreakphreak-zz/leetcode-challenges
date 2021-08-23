@@ -1,0 +1,14 @@
+# root project directories
+node_modules/
+dist/
+.vscode/
+
+# files
+package-lock.json
+.env
+
+
+# packages
+**/node_modules/
+**/.env
+**/dist/

@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-challenges",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "add-two-numbers"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Zabala (Mike)",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.3.1"
+  }
+}
